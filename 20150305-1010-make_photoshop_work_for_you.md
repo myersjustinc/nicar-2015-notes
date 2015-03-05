@@ -25,3 +25,18 @@ Press the stop (square) button next to the red record icon.
 
 **Tip:** Don't record opening, saving or closing of files; you can handle this
 elsewhere.
+
+### Replaying on lots of files ###
+
+File -> Automate -> Batch
+
+Pick your action.
+
+"Source" should be "Folder", which lets you pick a folder of source images.
+(This is why you shouldn't record opening files.)
+
+"Destination" should be "Folder" as well, but you should pick a different
+folder to fill with your processed images. (This is why you shouldn't record
+saving and closing files.) You can set a filename convention here, too.
+
+Click OK, and watch the magic.
