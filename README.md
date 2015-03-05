@@ -11,3 +11,6 @@ Here are the sessions where I took notes at
 
 * [Humanizing Numbers](20150305-1520-humanizing_numbers.md) with Ron Nixon
   et al.
+
+* [Investigating business with data](20150305-1630-investigating_business_with_data.md)
+  with Andrea Fuller and John Schoen
