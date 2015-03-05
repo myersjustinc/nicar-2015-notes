@@ -2,9 +2,7 @@
 
 **Speakers:** Andrea Fuller, The Wall Street Journal; John Schoen, CNBC.com
 
-## Working with financial filings ##
-
-### A quick SEC guide ###
+## A quick SEC guide ##
 
 * EDGAR
 
@@ -21,7 +19,7 @@
 * 8-K: Important news events
 
 
-### Investor data ###
+## Investor data ##
 
 * Form ADV for investment advisors
 
@@ -37,7 +35,7 @@
 
   * ABBYY FineReader
 
-### FINRA ###
+## FINRA ##
 
 * Financial Industry Regulatory Authority
 
@@ -48,3 +46,60 @@
 
 * Brokers are required to report to the state securities regulators, so WSJ
   filed records requests in all states for their databases
+
+## Boards of directors--sources ##
+
+* IRS Form 990
+* Capital IQ
+
+## Investigating your local bank ##
+
+FDIC releases notices when local banks get shut down, and FDIC data can help
+you learn about other local banks:
+
+* BankFind
+* Summary of Deposits
+* Call Reports
+
+## Non-"business" datasets ##
+
+* Autos
+
+  * NHTSA keeps track of complaints from drivers, investigations and recalls
+
+* Medicare
+
+  * Doctors' offices and hospitals are businesses, of course
+
+  * Center for Medicare and Medicaid Services releases some data
+
+* Oil and gas
+
+  * Companies report to each state how much oil is moving through that state,
+    so ask those states' emergency response commissions for data
+
+## Other sources ##
+
+* Accurint and LexisNexis
+
+  * Locate employees
+
+  * Addresses
+
+  * Phone numbers
+
+  * Executive pay
+
+  * News archives
+
+  * State licenses
+
+  * SEC filings
+
+* Moody's, S&P, and Fitch
+
+  * Rate everything from companies to countries
+
+* PACER
+
+  * All federal cases, including bankruptcy!
