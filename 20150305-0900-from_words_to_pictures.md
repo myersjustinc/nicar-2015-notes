@@ -84,3 +84,30 @@ A common text processing pipeline goes something like so:
 * **Tokenize:** we | are | fifteen | years | into | this | new | century | .
 * **Stem:** we | are | fifteen | year | into | thi | new | centuri | .
 * **Stop word removal:** we | are | fifteen | year | into | new | centuri
+
+Lowercasing often is OK, but you might need to keep capitalization in titles
+and proper names.
+
+Tokenization is useful for breaking up sentence components, but you might have
+phrases you don't want to break up.
+
+Stemming is language-specific, and you might need to undo it later for
+presentation purposes.
+
+We can count all kinds of things, including:
+
+* Sequences of N words (**N-grams**, also with the special cases of
+  **unigrams** and **bigrams**)
+
+* Colocations (what appears near what else?)
+
+* Regular expression matches
+
+* "Keyness"--how much more something occurs in a given piece of text than in
+  typical texts in that language.
+
+[AntConc](http://www.laurenceanthony.net/software/antconc/) is useful for
+calculating these metrics.
+
+[LIWC](http://www.liwc.net/) has a lot of useful dictionaries, as does
+[General Inquirer](http://www.wjh.harvard.edu/~inquirer/).
