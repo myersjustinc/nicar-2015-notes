@@ -52,3 +52,15 @@ this method for non-word-cloud things as well.
 
 There's also an approach known as the "compare cloud", which is sort of a
 mashup of the word cloud and the Venn diagram. [Here's one.](http://nad.webfactional.com/lingoscope/v2/)
+
+[Word trees](http://www.jasondavies.com/wordtree) are another contextual
+visualization type that might come in handy.
+
+## Text understanding ##
+
+Visualize what the text is **about**, not just what the text **says**.
+
+This obviously is in rather experimental stages at this point, such as
+[NewsViews](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/NewsViews_20140112_CR.pdf)
+and [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/),
+but there seems to be a lot of potential.
