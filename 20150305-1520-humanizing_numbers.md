@@ -26,7 +26,7 @@ their schools immediately get quite a bit more segregated.
 Created an index measuring percentage of black students attending schools in
 which at least 90 percent of the students are minorities.
 
-## Who is the face of the story? ##
+### Who is the face of the story? ###
 
 * One city or several?
 * A school?
@@ -35,3 +35,17 @@ which at least 90 percent of the students are minorities.
 * Multiple characters or one?
 * A teacher or a student?
 * A family?
+
+In this case, multiple generations of one family, spanning pre- and
+post-desegregation experiences, ending with student currently experiencing
+effects.
+
+## Representations##
+
+Icons can be dehumanizing; instead of icons, Katie represented victims with
+their given names or with individual drawings.
+
+Other pieces have used photos of the people being discussed.
+
+Presenting cases one at a time for a while also helps readers understand the
+gravity of a situation.
