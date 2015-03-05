@@ -40,7 +40,7 @@ In this case, multiple generations of one family, spanning pre- and
 post-desegregation experiences, ending with student currently experiencing
 effects.
 
-## Representations##
+## Representations ##
 
 Icons can be dehumanizing; instead of icons, Katie represented victims with
 their given names or with individual drawings.
