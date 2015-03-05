@@ -37,3 +37,18 @@ corpus (collection; plural is "corpora") of text.
 In a similar vein, [Ben Schmidt](http://benschmidt.org/profGender/) analyzed
 language in professor reviews based on the genders of the professors being
 reviewed.
+
+[Jerome Cukier](http://www.jeromecukier.net/projects/agot/events.html) worked
+on a less journalistic project with some of these concepts: Events in Game of
+Thrones over time.
+
+## Word clouds ##
+
+Word clouds get a bad rap, but they can be done well when they provide context.
+An example is [NYT's 2012 Republican National Convention coverage](http://www.nytimes.com/interactive/2012/08/28/us/politics/convention-word-counts.html?_r=0).
+
+Diakopoulos refers to this as KWIC (keyword in context) and highly recommends
+this method for non-word-cloud things as well.
+
+There's also an approach known as the "compare cloud", which is sort of a
+mashup of the word cloud and the Venn diagram. [Here's one.](http://nad.webfactional.com/lingoscope/v2/)
