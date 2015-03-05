@@ -64,3 +64,23 @@ This obviously is in rather experimental stages at this point, such as
 [NewsViews](http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/NewsViews_20140112_CR.pdf)
 and [Timeline Curator](http://www.cs.ubc.ca/group/infovis/software/TimeLineCurator/),
 but there seems to be a lot of potential.
+
+## Other inspiration ##
+
+The ISOVIS group in Sweden has a neat [gallery of other techniques](http://textvis.lnu.se/).
+
+## Processing text ##
+
+How do we go from a blob of text to something we can actually work with?
+
+What can we count?
+
+What tools can we use?
+
+A common text processing pipeline goes something like so:
+
+* **Initial text:** We are fifteen years into this new century.
+* **Lowercase:** we are fifteen years into this new century.
+* **Tokenize:** we | are | fifteen | years | into | this | new | century | .
+* **Stem:** we | are | fifteen | year | into | thi | new | centuri | .
+* **Stop word removal:** we | are | fifteen | year | into | new | centuri
