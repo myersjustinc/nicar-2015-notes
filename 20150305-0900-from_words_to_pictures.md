@@ -110,4 +110,13 @@ We can count all kinds of things, including:
 calculating these metrics.
 
 [LIWC](http://www.liwc.net/) has a lot of useful dictionaries, as does
-[General Inquirer](http://www.wjh.harvard.edu/~inquirer/).
+[General Inquirer](http://www.wjh.harvard.edu/~inquirer/). Watch out, though,
+because a given dictionary isn't always appropriate to the source of the text
+you're analyzing.
+
+The [Natural Language Toolkit](http://nltk.org/) (a Python library) is useful
+for tagging words as specific parts of speech, such as nouns and verbs.
+
+Named entity extraction is useful, but it can be ambiguous. Several
+organizations already have a lot of work in this field, such as
+[OpenCalais](http://www.opencalais.com/) and [AlchemyAPI](http://www.alchemyapi.com/).
