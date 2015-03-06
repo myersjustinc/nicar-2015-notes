@@ -14,3 +14,6 @@ Here are the sessions where I took notes at
 
 * [Investigating business with data](20150305-1630-investigating_business_with_data.md)
   with Andrea Fuller and John Schoen
+
+* [Bridging the Developer/Journalist Gap](20150306-0900-bridging_the_developer_journalist_gap.md)
+  with Anthony DeBarros, Maureen Linke and Chrys Wu
