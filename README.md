@@ -17,3 +17,6 @@ Here are the sessions where I took notes at
 
 * [Bridging the Developer/Journalist Gap](20150306-0900-bridging_the_developer_journalist_gap.md)
   with Anthony DeBarros, Maureen Linke and Chrys Wu
+
+* [Red Alert: Tools to automatically generate story leads](20150306-1010-red_alert.md)
+  with Abe Handler, Thomas Thoren and Todd Wallack
