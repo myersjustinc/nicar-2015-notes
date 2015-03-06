@@ -20,3 +20,6 @@ Here are the sessions where I took notes at
 
 * [Red Alert: Tools to automatically generate story leads](20150306-1010-red_alert.md)
   with Abe Handler, Thomas Thoren and Todd Wallack
+
+* [Drones, the FAA and you](20150306-1410-drones_the_faa_and_you.md) with Matt
+  Waite
