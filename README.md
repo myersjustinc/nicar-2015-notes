@@ -29,3 +29,6 @@ Here are the sessions where I took notes at
 
 * [Intermediate/advanced security](20150307-1120-intermediate_advanced_security.md)
   with Aurelia Moser and Harlo Holmes
+
+* [Data smells](20150307-1520-data_smells.md) with Chris Keller, Aurelia Moser
+  and Jacob Harris
