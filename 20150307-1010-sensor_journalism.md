@@ -106,4 +106,34 @@ That trip included something that was on the order of a four-foot drop in
 Lincoln. Note that doesn't mean it actually fell four feet--just experienced a
 similar force.
 
+## Environmental data ##
 
+Experimenting at Mizzou with environmental data in Columbia, Missouri.
+
+"Getting data out of ostensibly clean air"
+
+Travis lives between two loud bars with large roof decks. "How loud is it?"
+Let's measure!
+
+Decided to build a wireless sensor array that feeds an online map--got Knight
+funding.
+
+Main concerns:
+
+* Sensor accuracy
+* Wireless
+* Robust housing
+* Low power
+* Cheap
+
+Built a prototype, put it on his apartment building's roof, and it worked!
+
+Ended up using a Moteino for wireless and talked to an engineering professor to
+improve the antenna setup.
+
+Used an open-source mesh-networking library from some Australians.
+
+Got permission for a pilot test from the city government to put nine of them on
+light poles.
+
+Working well so far--figuring out next steps!
