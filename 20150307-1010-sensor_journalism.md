@@ -39,3 +39,18 @@ The tracking used a custom "sleep journal" built as a Web app and an iOS app.
 One-third of users submitted via the iOS application.
 
 "Important discovery: Making apps is really hard. I do not recommend it."
+
+## Bored and Brilliant ##
+
+Someone asked John: "You can build apps, right? Can you build an app to track
+how much people use their phones?"
+
+Given the previous discovery, he answered "no", but apps already exist for the
+major platforms to track this kind of thing--can we reach out to the companies
+that publish these applications?
+
+Moment app for iPhone added an opt-in feature to let users submit usage data to
+WNYC!
+
+"This is actually a sensor project...it's sensing whether your phone screen is
+on."
