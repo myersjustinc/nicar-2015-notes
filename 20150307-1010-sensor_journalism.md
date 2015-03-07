@@ -54,3 +54,56 @@ WNYC!
 
 "This is actually a sensor project...it's sensing whether your phone screen is
 on."
+
+## Luggage sensing ##
+
+Or: How we turned a half-joke of a NICAR lighting talk into a sensor journalism project
+
+In 2013, Matt Waite gave a lightning talk called "Soldering iron: Next great
+data tool".
+
+Built the TSA-a-tron: an accelerometer measuring the treatment of Matt's
+luggage on the way to NICAR.
+
+After this, he and Fergus Pitt designed a better luggage sensor with the
+following requirements:
+
+* Operating battery life of 24+ hours.
+
+* High resolution, high-speed accelerometer responsiveness for recording brief
+  impacts and movements.
+
+* The ability to sense movement in any direction.
+
+* A real-time clock for time-stamping every recorded accelerometer reading.
+
+* An easy way for travelers to submit this data back to them.
+
+Things they wrestled with:
+
+* It was going to take weeks to create a prototype.
+
+* Estimated unit cost: $100.
+
+* "Wouldn't it be easier to take a cheap Android phone and write some
+  software?"
+
+  Depends on volume, honestly.
+
+  But this was an experiment, so "we're gonna do it, economics be damned."
+
+Built five units. Deployed four. One produced no usable data. One never turned
+on. Two produced useful data.
+
+Interestingly, "not one airport security officer in four countries said
+anything about it." And the prototype was breadboarded in a soap dish--not
+particularly clean-looking.
+
+The two working units traveled 25,000 miles and logged almost 600,000
+observations, including on a 26-hour trip from Lincoln to Nairobi.
+
+That trip included something that was on the order of a four-foot drop in
+Lincoln. Note that doesn't mean it actually fell four feet--just experienced a
+similar force.
+
+
