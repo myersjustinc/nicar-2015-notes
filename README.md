@@ -26,3 +26,6 @@ Here are the sessions where I took notes at
 
 * [Sensor journalism: buzz or BS?](20150307-1010-sensor_journalism.md) with Amy
   Schmitz Weiss, John Keefe, Matt Waite and Travis Hartman
+
+* [Intermediate/advanced security](20150307-1120-intermediate_advanced_security.md)
+  with Aurelia Moser and Harlo Holmes
