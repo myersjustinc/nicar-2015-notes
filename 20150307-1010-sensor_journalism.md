@@ -152,3 +152,15 @@ reporting readings on an LCD.
 Deploying sensors to six neighborhoods in San Diego.
 
 Need to do more experimentation to know how accurate the data will be.
+
+## From Q&A ##
+
+Matt: With sensor hardware, you really do get what you pay for. Better quality
+requires more money, unfortunately.
+
+Amy: The narrower your focus, the better.
+
+Amy: Consider adding onto whatever data you collect with whatever data you can
+find from other sources such as the EPA.
+
+Matt: "You're not going to be able to go to court with this stuff."
