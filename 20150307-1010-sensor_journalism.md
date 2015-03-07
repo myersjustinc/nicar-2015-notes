@@ -137,3 +137,18 @@ Got permission for a pilot test from the city government to put nine of them on
 light poles.
 
 Working well so far--figuring out next steps!
+
+## Air quality ##
+
+Amy is studying air quality in San Diego with inewsource, geology students and
+journalism students, funded by an ONA Hack the Curriculum grant.
+
+Did a lot of R&D over the past year--started with a prototype in a shoebox and
+moved up to a box from the Container Store.
+
+Measuring gases and particulate matter with Grove sensors and an Arduino,
+reporting readings on an LCD.
+
+Deploying sensors to six neighborhoods in San Diego.
+
+Need to do more experimentation to know how accurate the data will be.
