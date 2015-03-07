@@ -23,3 +23,6 @@ Here are the sessions where I took notes at
 
 * [Drones, the FAA and you](20150306-1410-drones_the_faa_and_you.md) with Matt
   Waite
+
+* [Sensor journalism: buzz or BS?](20150307-1010-sensor_journalism.md) with Amy
+  Schmitz Weiss, John Keefe, Matt Waite and Travis Hartman
