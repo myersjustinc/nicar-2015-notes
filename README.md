@@ -32,3 +32,6 @@ Here are the sessions where I took notes at
 
 * [Data smells](20150307-1520-data_smells.md) with Chris Keller, Aurelia Moser
   and Jacob Harris
+
+* [Game of Life: Data from day one to the day you die](20150308-0900-game_of_life.md)
+  with Jennifer LaFleur and Jaimi Dowdell
